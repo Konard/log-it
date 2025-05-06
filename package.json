@@ -1,0 +1,13 @@
+{
+  "name": "log-it",
+  "version": "0.1.0",
+  "description": "A tool to log it all in a JavaScript file.",
+  "main": "lib/index.js",
+  "bin": {
+    "log-it": "bin/log-it.js"
+  },
+  "keywords": ["log", "trace", "cli"],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {}
+}
