@@ -6,8 +6,21 @@
   "bin": {
     "log-it": "bin/log-it.js"
   },
-  "keywords": ["log", "trace", "cli"],
+  "keywords": [
+    "log",
+    "trace",
+    "cli",
+    "console"
+  ],
   "author": "",
   "license": "UNLICENSED",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konard/log-it.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konard/log-it/issues"
+  },
+  "homepage": "https://github.com/konard/log-it#readme"
 }
